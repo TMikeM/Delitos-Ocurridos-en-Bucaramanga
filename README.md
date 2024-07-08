@@ -1,5 +1,5 @@
 # PROYECTO-FINAL-IA
-![Image text](https://github.com/TMikeM/Delitos-Ocurridos-en-Bucaramanga/blob/main/Banner3.png)
+![Image text](https://github.com/TMikeM/Delitos-Ocurridos-en-Bucaramanga/blob/main/BannerIA.png)
 
 ## ⭐Integrantes:
 - Estefania Osma Llanes
