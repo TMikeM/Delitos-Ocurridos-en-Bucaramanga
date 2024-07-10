@@ -21,4 +21,4 @@ La seguridad ciudadana es fundamental para el bienestar y la calidad de vida de 
 ### 📌 Multimedia:
 - Video: [Propuesta]()
 - Diapositivas: [Presentación Propuesta]()
-- Notebook: [Google Colab]()
+- Notebook: [Google Colab](https://colab.research.google.com/drive/1v-xcyc-_0nKrgIArNyMgiSESs8lkK1Rh?usp=sharing)
