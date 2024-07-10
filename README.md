@@ -1,4 +1,4 @@
-# PROYECTO-FINAL-IA
+# **PROYECTO-FINAL-IA**
 ![Image text](https://github.com/TMikeM/Delitos-Ocurridos-en-Bucaramanga/blob/main/BannerIA.png)
 
 ## ⭐Integrantes:
