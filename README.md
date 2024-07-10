@@ -19,6 +19,6 @@ La seguridad ciudadana es fundamental para el bienestar y la calidad de vida de 
 - Conjunto de Datos: [Delitos en el Municipio de Bucaramanga](https://www.datos.gov.co/Seguridad-y-Defensa/Delitos-ocurridos-en-el-Municipio-de-Bucaramanga/75fz-q98y/about_data)
 
 ### 📌 Multimedia:
-- Video: [Presentacion Proyecto]()
+- Video: [Presentacion Proyecto](https://youtu.be/PLqiSCyScUk)
 - Diapositivas: [Presentación Propuesta](https://drive.google.com/file/d/1F9ZYhsc58yrQndcgE7OZVKWgSvV1fjCq/view?usp=sharing)
 - Notebook: [Google Colab](https://colab.research.google.com/drive/1v-xcyc-_0nKrgIArNyMgiSESs8lkK1Rh?usp=sharing)
